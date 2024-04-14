@@ -19,8 +19,7 @@ public class SeleniumTestForPractice
         
         // перейти на  https://staff-testing.testkontur.ru/
         driver.Navigate().GoToUrl("https://staff-testing.testkontur.ru/");
-        Thread.Sleep(5000);
-        
+
         // ввести логин и пароль
         var login = driver.FindElement(By.Id("Username"));
         login.SendKeys("natalyamityaginalinn@yandex.ru");
