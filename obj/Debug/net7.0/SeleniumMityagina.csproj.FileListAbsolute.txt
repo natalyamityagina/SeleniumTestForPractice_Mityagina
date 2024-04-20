@@ -101,3 +101,4 @@ C:\Users\anvel\RiderProjects\TestProject1\SeleniumMityagina\obj\Debug\net7.0\ref
 C:\Users\anvel\RiderProjects\TestProject1\SeleniumMityagina\obj\Debug\net7.0\SeleniumMityagina.pdb
 C:\Users\anvel\RiderProjects\TestProject1\SeleniumMityagina\obj\Debug\net7.0\SeleniumMityagina.genruntimeconfig.cache
 C:\Users\anvel\RiderProjects\TestProject1\SeleniumMityagina\obj\Debug\net7.0\ref\SeleniumMityagina.dll
+C:\Users\anvel\RiderProjects\TestProject1\SeleniumMityagina\bin\Debug\net7.0\SeleniumExtras.WaitHelpers.dll

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7FReMjQwojwrX6LpOwh08D424IDHNLRihawtCbAnzkMGYzJTANMtHKfDt7aNe4U7zrrUVGo2U3Db1y/XvnWlww==",
+  "dgSpecHash": "YbsGyQIh8nT1MfMGdxYekFGmc6EDI9jdIeY5l0D89flCR/FE397hb+aoxQVjN9nN9zC2/Rp9p9NwZ905W9G4ug==",
   "success": true,
   "projectFilePath": "C:\\Users\\anvel\\RiderProjects\\TestProject1\\SeleniumMityagina\\SeleniumMityagina.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anvel\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\anvel\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\anvel\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
     "C:\\Users\\anvel\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.1\\microsoft.net.test.sdk.17.7.1.nupkg.sha512",
     "C:\\Users\\anvel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
